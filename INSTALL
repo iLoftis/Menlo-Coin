@@ -1,0 +1,9 @@
+Building Menlocoin
+
+See doc/readme-qt.rst for instructions on building Menlocoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Menlocoin.
+
+See doc/build-*.txt for instructions on building menlocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Menlocoin.
